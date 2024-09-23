@@ -1,4 +1,5 @@
-# datafun-04-jupyter
+# datafun-07-applied
+# Project 7
 
 ## How to Install and Run the Project
 
