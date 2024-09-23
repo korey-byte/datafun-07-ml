@@ -4,3 +4,7 @@ pandas
 matplotlib 
 seaborn 
 scipy
+pymongo
+pyspark
+tensorflow
+wordcloud
